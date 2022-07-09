@@ -1,0 +1,3 @@
+*.so
+shared_main
+static_main
